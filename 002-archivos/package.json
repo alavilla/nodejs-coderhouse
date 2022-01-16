@@ -1,0 +1,12 @@
+{
+    "name": "contenedor",
+    "version": "1.0.0",
+    "description": "",
+    "main": "contenedor_init.js",
+    "scripts": {
+      "start": "node contenedor_init.js"
+    },
+    "keywords": [],
+    "author": "Lavilla Alejandro",
+    "license": "ISC"
+  }
